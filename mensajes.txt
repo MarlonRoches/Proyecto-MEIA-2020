@@ -1,0 +1,9 @@
+Tito|Chang|16-11-2020|Que onda|0|1
+Tito|Machete|16-11-2020|Machetonnnnn|1|1
+Tito|Mashe|16-11-2020|asdasdasd|1|1
+Tito|admin|16-11-2020|asdasdasdas|0|1
+Tito|Chang|16-11-2020|Que onda|0|1
+Tito|Machete|16-11-2020|Machetonnnnn|1|1
+Tito|Mashe|16-11-2020|asdasdasd|1|1
+Tito|admin|16-11-2020|asdasdasdas|0|1
+Tito|Chang|16-11-2020|chanque|0|1
